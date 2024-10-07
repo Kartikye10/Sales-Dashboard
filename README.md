@@ -24,3 +24,9 @@ Ensure forecasts are adaptable to changes in market conditions and business stra
 
 Translate analysis findings into actionable insights that can drive strategic decision-making.
 Provide tailored recommendations that support the supermarket’s goals for growth, operational efficiency, and customer satisfaction.
+
+
+![1](https://github.com/user-attachments/assets/9d4b4637-196d-4be5-9002-cc5c41b8eade)
+
+
+![2](https://github.com/user-attachments/assets/cc5b839f-0fd7-44bc-8071-99b8c1c37832)
